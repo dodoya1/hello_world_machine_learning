@@ -1,0 +1,2 @@
+# hello_world_machine_learning
+機械学習のハローワールドに挑戦してみる
